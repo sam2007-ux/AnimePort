@@ -69,13 +69,13 @@ AnimePort is licensed under the MIT License. See the LICENSE file for more detai
 
 # Contact
 
-For any questions or feedback, reach out to us at your-email@example.com.
+For any questions or feedback, reach out to us at animeport.contact@gmail.com
 
 # Donate
 
 Support AnimePort and help us continue to improve! Choose from various donation options:
 
-	•	Buy Me a Coffee: BuyMeACoffee Link
+	•	Buy Me a Coffee: buymeacoffee.com/AnimePort
 	•	PayPal: PayPal Link
 
 Donations of $1, $5, $10, $50, and $100 each come with special perks and benefits. Check out our Donation Tiers for more information.
